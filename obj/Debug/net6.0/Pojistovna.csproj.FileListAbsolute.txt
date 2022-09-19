@@ -1,0 +1,15 @@
+C:\Vyvoj\Lenka\ITnetwork-školení\Pojistovna\obj\Debug\net6.0\Pojistovna.csproj.AssemblyReference.cache
+C:\Vyvoj\Lenka\ITnetwork-školení\Pojistovna\obj\Debug\net6.0\Pojistovna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vyvoj\Lenka\ITnetwork-školení\Pojistovna\obj\Debug\net6.0\Pojistovna.AssemblyInfoInputs.cache
+C:\Vyvoj\Lenka\ITnetwork-školení\Pojistovna\obj\Debug\net6.0\Pojistovna.AssemblyInfo.cs
+C:\Vyvoj\Lenka\ITnetwork-školení\Pojistovna\obj\Debug\net6.0\Pojistovna.csproj.CoreCompileInputs.cache
+C:\Vyvoj\Lenka\ITnetwork-školení\Pojistovna\bin\Debug\net6.0\Pojistovna.exe
+C:\Vyvoj\Lenka\ITnetwork-školení\Pojistovna\bin\Debug\net6.0\Pojistovna.deps.json
+C:\Vyvoj\Lenka\ITnetwork-školení\Pojistovna\bin\Debug\net6.0\Pojistovna.runtimeconfig.json
+C:\Vyvoj\Lenka\ITnetwork-školení\Pojistovna\bin\Debug\net6.0\Pojistovna.dll
+C:\Vyvoj\Lenka\ITnetwork-školení\Pojistovna\bin\Debug\net6.0\Pojistovna.pdb
+C:\Vyvoj\Lenka\ITnetwork-školení\Pojistovna\obj\Debug\net6.0\Pojistovna.dll
+C:\Vyvoj\Lenka\ITnetwork-školení\Pojistovna\obj\Debug\net6.0\refint\Pojistovna.dll
+C:\Vyvoj\Lenka\ITnetwork-školení\Pojistovna\obj\Debug\net6.0\Pojistovna.pdb
+C:\Vyvoj\Lenka\ITnetwork-školení\Pojistovna\obj\Debug\net6.0\Pojistovna.genruntimeconfig.cache
+C:\Vyvoj\Lenka\ITnetwork-školení\Pojistovna\obj\Debug\net6.0\ref\Pojistovna.dll
